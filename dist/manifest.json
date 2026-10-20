@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Overgrown",
+  "version": "1.0.0",
+  "description": "Your tabs get overgrown by plants the longer you leave them unread. Read them or slash your way through to get them back.",
+  "permissions": ["storage", "tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": { "128": "icon.png" },
+  "action": { "default_title": "Overgrown", "default_popup": "popup.html", "default_icon": "icon.png" }
+}

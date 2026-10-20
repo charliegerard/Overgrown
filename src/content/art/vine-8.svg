@@ -1,0 +1,753 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 260" width="200" height="260">
+  <defs>
+    <path id="v8-leaf-0" d="M0.21 0 L0.22 -0.04 L0.23 -0.08 L0.19 -0.19 L0.23 -0.27 L0.34 -0.16 L0.38 -0.17 L0.48 -0.36 L0.59 -0.36 L0.5 -0.12 L0.53 -0.08 L0.76 -0.1 L0.96 0 L0.76 0.1 L0.53 0.09 L0.5 0.12 L0.57 0.33 L0.47 0.33 L0.38 0.17 L0.34 0.16 L0.25 0.23 L0.21 0.17 L0.23 0.09 L0.22 0.04 Z"/>
+    <path id="v8-veins-0" d="M0.23 0 L0.84 0 M0.23 0 L0.52 0.3 M0.23 0 L0.53 -0.33 M0.23 0 L0.24 0.19 M0.23 0 L0.22 -0.22"/>
+    <path id="v8-leaf-1" d="M0.21 0 L0.22 -0.04 L0.23 -0.08 L0.22 -0.16 L0.25 -0.22 L0.34 -0.16 L0.38 -0.17 L0.47 -0.34 L0.58 -0.34 L0.5 -0.12 L0.53 -0.08 L0.78 -0.11 L1 0 L0.78 0.11 L0.53 0.09 L0.5 0.12 L0.55 0.3 L0.46 0.3 L0.38 0.17 L0.34 0.16 L0.23 0.26 L0.19 0.19 L0.23 0.09 L0.22 0.04 Z"/>
+    <path id="v8-veins-1" d="M0.23 0 L0.87 0 M0.23 0 L0.5 0.27 M0.23 0 L0.52 -0.31 M0.23 0 L0.22 0.22 M0.23 0 L0.25 -0.18"/>
+    <path id="v8-leaf-2" d="M0.21 0 L0.22 -0.04 L0.23 -0.08 L0.24 -0.14 L0.27 -0.19 L0.34 -0.16 L0.38 -0.17 L0.47 -0.35 L0.59 -0.36 L0.5 -0.12 L0.53 -0.08 L0.77 -0.11 L0.98 0 L0.77 0.11 L0.53 0.09 L0.5 0.12 L0.6 0.38 L0.48 0.38 L0.38 0.17 L0.34 0.16 L0.24 0.23 L0.21 0.17 L0.23 0.09 L0.22 0.04 Z"/>
+    <path id="v8-veins-2" d="M0.23 0 L0.86 0 M0.23 0 L0.54 0.35 M0.23 0 L0.53 -0.33 M0.23 0 L0.24 0.19 M0.23 0 L0.27 -0.16"/>
+    <path id="v8-leaf-3" d="M0.21 0 L0.22 -0.04 L0.23 -0.08 L0.2 -0.18 L0.24 -0.25 L0.34 -0.16 L0.38 -0.17 L0.47 -0.35 L0.58 -0.35 L0.5 -0.12 L0.53 -0.08 L0.76 -0.1 L0.95 0 L0.76 0.1 L0.53 0.09 L0.5 0.12 L0.58 0.35 L0.47 0.35 L0.38 0.17 L0.34 0.16 L0.27 0.19 L0.24 0.14 L0.23 0.09 L0.22 0.04 Z"/>
+    <path id="v8-veins-3" d="M0.23 0 L0.84 0 M0.23 0 L0.52 0.32 M0.23 0 L0.52 -0.32 M0.23 0 L0.27 0.16 M0.23 0 L0.23 -0.21"/>
+    <path id="v8-leaf-4" d="M0.21 0 L0.22 -0.04 L0.23 -0.08 L0.21 -0.17 L0.25 -0.23 L0.34 -0.16 L0.38 -0.17 L0.47 -0.33 L0.57 -0.33 L0.5 -0.12 L0.53 -0.08 L0.79 -0.11 L1 0 L0.79 0.11 L0.53 0.09 L0.5 0.12 L0.59 0.37 L0.48 0.36 L0.38 0.17 L0.34 0.16 L0.23 0.26 L0.19 0.19 L0.23 0.09 L0.22 0.04 Z"/>
+    <path id="v8-veins-4" d="M0.23 0 L0.88 0 M0.23 0 L0.53 0.33 M0.23 0 L0.52 -0.3 M0.23 0 L0.22 0.22 M0.23 0 L0.24 -0.19"/>
+    <path id="v8-leaf-5" d="M0.21 0 L0.22 -0.04 L0.23 -0.08 L0.24 -0.14 L0.27 -0.19 L0.34 -0.16 L0.38 -0.17 L0.46 -0.29 L0.55 -0.29 L0.5 -0.12 L0.53 -0.08 L0.75 -0.1 L0.95 0 L0.75 0.1 L0.53 0.09 L0.5 0.12 L0.59 0.36 L0.48 0.36 L0.38 0.17 L0.34 0.16 L0.22 0.28 L0.18 0.2 L0.23 0.09 L0.22 0.04 Z"/>
+    <path id="v8-veins-5" d="M0.23 0 L0.84 0 M0.23 0 L0.53 0.33 M0.23 0 L0.5 -0.26 M0.23 0 L0.21 0.23 M0.23 0 L0.26 -0.16"/>
+    <linearGradient id="v8-shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0.42"/>
+      <stop offset="0.4" stop-color="#000" stop-opacity="0.06"/>
+      <stop offset="0.75" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="v8-under" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.22"/>
+    </linearGradient>
+    <radialGradient id="v8-sheen" cx="0.45" cy="0.3" r="0.55">
+      <stop offset="0" stop-color="#f4f6dc" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#f4f6dc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Soft shadows under the stems -->
+  <g fill="none" stroke="#000" stroke-opacity="0.22" stroke-linecap="round" stroke-linejoin="round" transform="translate(2 3)">
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 Q123.1 150.1 122.7 143.5 Q122.3 137 122.5 130.4 Q122.7 123.8 124.5 117.5 Q126.3 111.2 129.1 105.3 L131.9 99.3" stroke-width="6.7"/>
+    <path d="M39.5 110.4 Q30 106.8 25.2 105.4 Q20.3 104 15.3 103.6 L10.2 103.2" stroke-width="1.8"/>
+    <path d="M107.9 212 Q100 204 96.2 199.9 Q92.4 195.7 89.5 190.9 Q86.6 186.1 84.3 181 Q81.9 175.9 79.2 171 Q76.5 166 73.9 161.1 Q71.3 156.1 68.3 151.3 Q65.4 146.5 61.4 142.6 Q57.4 138.6 53.6 134.5 Q49.7 130.4 47 125.5 Q44.2 120.6 41.9 115.5 L39.5 110.4" stroke-width="2.3"/>
+    <path d="M115.1 201 Q125.8 199.4 131.1 198.4 Q136.4 197.4 141.6 195.7 Q146.7 193.9 151.5 191.4 Q156.3 188.9 161 186.2 Q165.7 183.6 170.3 180.7 L174.9 177.9" stroke-width="2.7"/>
+    <path d="M104.3 111.1 Q108 101.4 108.9 96.3 Q109.9 91.2 110.1 86 L110.4 80.8" stroke-width="1.7"/>
+    <path d="M120.6 189.1 Q116.5 178.3 115.4 172.6 Q114.4 166.9 114.7 161.1 Q115.1 155.3 115.2 149.5 Q115.3 143.8 114.3 138.1 Q113.2 132.4 111.5 126.9 Q109.8 121.3 107 116.2 Q104.3 111.1 101.5 106.1 Q98.6 101 96.4 95.7 L94.2 90.3" stroke-width="2.1"/>
+    <path d="M123.7 176.3 Q115.6 168 111.2 164.3 Q106.7 160.7 102.6 156.6 Q98.6 152.4 94.9 148 Q91.2 143.5 86.9 139.7 Q82.6 135.9 77.7 132.8 Q72.8 129.7 67.5 127.6 Q62.1 125.4 56.6 123.8 L51.1 122.1" stroke-width="2.3"/>
+    <path d="M124.4 163.2 Q130.6 153 133.3 147.7 Q136 142.5 138.8 137.3 Q141.7 132.1 145.3 127.3 Q148.9 122.6 153.5 118.9 Q158.1 115.2 162.5 111.2 L166.9 107.2" stroke-width="1.9"/>
+    <path d="M79.3 66.2 Q75.2 57.2 72.4 53.2 Q69.6 49.1 66.7 45.1 L63.8 41.2" stroke-width="1.9"/>
+    <path d="M126.3 111.2 Q119.2 102.9 115.8 98.6 Q112.4 94.4 109 90 Q105.6 85.7 101.4 82.2 Q97.2 78.7 92.8 75.5 Q88.4 72.3 83.8 69.2 Q79.3 66.2 74.4 63.7 L69.5 61.2" stroke-width="2.5"/>
+    <path d="M131.9 99.3 Q131.5 90.1 131.7 85.5 Q131.9 80.8 131.9 76.2 Q131.8 71.6 131.7 67 Q131.7 62.3 131.5 57.7 Q131.3 53.1 131 48.5 Q130.7 43.8 130.9 39.2 Q131.1 34.6 131.2 30 Q131.4 25.3 132 20.7 Q132.6 16.2 129.5 12.7 L126.5 9.3" stroke-width="2.7"/>
+    <path d="M144.3 44.2 Q154 40.8 158.8 39.1 Q163.7 37.5 168 34.8 L172.4 32.1" stroke-width="1.7"/>
+    <path d="M131.9 99.3 Q135.9 88.7 136.8 83.1 Q137.6 77.4 138.4 71.8 Q139.1 66.2 139.8 60.5 Q140.6 54.9 142.5 49.5 L144.3 44.2" stroke-width="2.2"/>
+  </g>
+  <!-- Trailing shoots: green-brown, with a thin highlight -->
+  <g fill="none" stroke="hsl(68 22% 21%)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39.5 110.4 Q30 106.8 25.2 105.4 Q20.3 104 15.3 103.6 L10.2 103.2" stroke-width="1.1"/>
+    <path d="M107.9 212 Q100 204 96.2 199.9 Q92.4 195.7 89.5 190.9 Q86.6 186.1 84.3 181 Q81.9 175.9 79.2 171 Q76.5 166 73.9 161.1 Q71.3 156.1 68.3 151.3 Q65.4 146.5 61.4 142.6 Q57.4 138.6 53.6 134.5 Q49.7 130.4 47 125.5 Q44.2 120.6 41.9 115.5 L39.5 110.4" stroke-width="1.6"/>
+    <path d="M115.1 201 Q125.8 199.4 131.1 198.4 Q136.4 197.4 141.6 195.7 Q146.7 193.9 151.5 191.4 Q156.3 188.9 161 186.2 Q165.7 183.6 170.3 180.7 L174.9 177.9" stroke-width="2"/>
+    <path d="M104.3 111.1 Q108 101.4 108.9 96.3 Q109.9 91.2 110.1 86 L110.4 80.8" stroke-width="1"/>
+    <path d="M120.6 189.1 Q116.5 178.3 115.4 172.6 Q114.4 166.9 114.7 161.1 Q115.1 155.3 115.2 149.5 Q115.3 143.8 114.3 138.1 Q113.2 132.4 111.5 126.9 Q109.8 121.3 107 116.2 Q104.3 111.1 101.5 106.1 Q98.6 101 96.4 95.7 L94.2 90.3" stroke-width="1.5"/>
+    <path d="M123.7 176.3 Q115.6 168 111.2 164.3 Q106.7 160.7 102.6 156.6 Q98.6 152.4 94.9 148 Q91.2 143.5 86.9 139.7 Q82.6 135.9 77.7 132.8 Q72.8 129.7 67.5 127.6 Q62.1 125.4 56.6 123.8 L51.1 122.1" stroke-width="1.6"/>
+    <path d="M124.4 163.2 Q130.6 153 133.3 147.7 Q136 142.5 138.8 137.3 Q141.7 132.1 145.3 127.3 Q148.9 122.6 153.5 118.9 Q158.1 115.2 162.5 111.2 L166.9 107.2" stroke-width="1.3"/>
+    <path d="M79.3 66.2 Q75.2 57.2 72.4 53.2 Q69.6 49.1 66.7 45.1 L63.8 41.2" stroke-width="1.2"/>
+    <path d="M126.3 111.2 Q119.2 102.9 115.8 98.6 Q112.4 94.4 109 90 Q105.6 85.7 101.4 82.2 Q97.2 78.7 92.8 75.5 Q88.4 72.3 83.8 69.2 Q79.3 66.2 74.4 63.7 L69.5 61.2" stroke-width="1.8"/>
+    <path d="M131.9 99.3 Q131.5 90.1 131.7 85.5 Q131.9 80.8 131.9 76.2 Q131.8 71.6 131.7 67 Q131.7 62.3 131.5 57.7 Q131.3 53.1 131 48.5 Q130.7 43.8 130.9 39.2 Q131.1 34.6 131.2 30 Q131.4 25.3 132 20.7 Q132.6 16.2 129.5 12.7 L126.5 9.3" stroke-width="2"/>
+    <path d="M144.3 44.2 Q154 40.8 158.8 39.1 Q163.7 37.5 168 34.8 L172.4 32.1" stroke-width="1.1"/>
+    <path d="M131.9 99.3 Q135.9 88.7 136.8 83.1 Q137.6 77.4 138.4 71.8 Q139.1 66.2 139.8 60.5 Q140.6 54.9 142.5 49.5 L144.3 44.2" stroke-width="1.5"/>
+  </g>
+  <g fill="none" stroke="hsl(70 25% 40%)" stroke-opacity="0.45" stroke-linecap="round" transform="translate(-0.4 -0.3)">
+    <path d="M39.5 110.4 Q30 106.8 25.2 105.4 Q20.3 104 15.3 103.6 L10.2 103.2" stroke-width="0.3"/>
+    <path d="M107.9 212 Q100 204 96.2 199.9 Q92.4 195.7 89.5 190.9 Q86.6 186.1 84.3 181 Q81.9 175.9 79.2 171 Q76.5 166 73.9 161.1 Q71.3 156.1 68.3 151.3 Q65.4 146.5 61.4 142.6 Q57.4 138.6 53.6 134.5 Q49.7 130.4 47 125.5 Q44.2 120.6 41.9 115.5 L39.5 110.4" stroke-width="0.5"/>
+    <path d="M115.1 201 Q125.8 199.4 131.1 198.4 Q136.4 197.4 141.6 195.7 Q146.7 193.9 151.5 191.4 Q156.3 188.9 161 186.2 Q165.7 183.6 170.3 180.7 L174.9 177.9" stroke-width="0.6"/>
+    <path d="M104.3 111.1 Q108 101.4 108.9 96.3 Q109.9 91.2 110.1 86 L110.4 80.8" stroke-width="0.3"/>
+    <path d="M120.6 189.1 Q116.5 178.3 115.4 172.6 Q114.4 166.9 114.7 161.1 Q115.1 155.3 115.2 149.5 Q115.3 143.8 114.3 138.1 Q113.2 132.4 111.5 126.9 Q109.8 121.3 107 116.2 Q104.3 111.1 101.5 106.1 Q98.6 101 96.4 95.7 L94.2 90.3" stroke-width="0.4"/>
+    <path d="M123.7 176.3 Q115.6 168 111.2 164.3 Q106.7 160.7 102.6 156.6 Q98.6 152.4 94.9 148 Q91.2 143.5 86.9 139.7 Q82.6 135.9 77.7 132.8 Q72.8 129.7 67.5 127.6 Q62.1 125.4 56.6 123.8 L51.1 122.1" stroke-width="0.5"/>
+    <path d="M124.4 163.2 Q130.6 153 133.3 147.7 Q136 142.5 138.8 137.3 Q141.7 132.1 145.3 127.3 Q148.9 122.6 153.5 118.9 Q158.1 115.2 162.5 111.2 L166.9 107.2" stroke-width="0.4"/>
+    <path d="M79.3 66.2 Q75.2 57.2 72.4 53.2 Q69.6 49.1 66.7 45.1 L63.8 41.2" stroke-width="0.4"/>
+    <path d="M126.3 111.2 Q119.2 102.9 115.8 98.6 Q112.4 94.4 109 90 Q105.6 85.7 101.4 82.2 Q97.2 78.7 92.8 75.5 Q88.4 72.3 83.8 69.2 Q79.3 66.2 74.4 63.7 L69.5 61.2" stroke-width="0.5"/>
+    <path d="M131.9 99.3 Q131.5 90.1 131.7 85.5 Q131.9 80.8 131.9 76.2 Q131.8 71.6 131.7 67 Q131.7 62.3 131.5 57.7 Q131.3 53.1 131 48.5 Q130.7 43.8 130.9 39.2 Q131.1 34.6 131.2 30 Q131.4 25.3 132 20.7 Q132.6 16.2 129.5 12.7 L126.5 9.3" stroke-width="0.6"/>
+    <path d="M144.3 44.2 Q154 40.8 158.8 39.1 Q163.7 37.5 168 34.8 L172.4 32.1" stroke-width="0.3"/>
+    <path d="M131.9 99.3 Q135.9 88.7 136.8 83.1 Q137.6 77.4 138.4 71.8 Q139.1 66.2 139.8 60.5 Q140.6 54.9 142.5 49.5 L144.3 44.2" stroke-width="0.5"/>
+  </g>
+  <!-- Woody trunks: tapering, shaded round, with streaky bark -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 Q123.1 150.1 122.7 143.5 Q122.3 137 122.5 130.4 Q122.7 123.8 124.5 117.5 Q126.3 111.2 129.1 105.3 L131.9 99.3" stroke="hsl(30 14% 19%)" stroke-width="2.7"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 L123.1 150.1" stroke="hsl(30 14% 19%)" stroke-width="4.5"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 L115.1 201" stroke="hsl(30 14% 19%)" stroke-width="6.1"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 Q123.1 150.1 122.7 143.5 Q122.3 137 122.5 130.4 Q122.7 123.8 124.5 117.5 Q126.3 111.2 129.1 105.3 L131.9 99.3" stroke="#000" stroke-opacity="0.28" stroke-width="1" transform="translate(0.6 0.3)"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 L123.1 150.1" stroke="#000" stroke-opacity="0.28" stroke-width="1.6" transform="translate(1 0.5)"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 L115.1 201" stroke="#000" stroke-opacity="0.28" stroke-width="2.1" transform="translate(1.3 0.7)"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 Q123.1 150.1 122.7 143.5 Q122.3 137 122.5 130.4 Q122.7 123.8 124.5 117.5 Q126.3 111.2 129.1 105.3 L131.9 99.3" stroke="hsl(35 16% 46%)" stroke-opacity="0.35" stroke-width="0.5" transform="translate(-0.6 -0.3)"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 L123.1 150.1" stroke="hsl(35 16% 46%)" stroke-opacity="0.35" stroke-width="0.8" transform="translate(-1 -0.5)"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 L115.1 201" stroke="hsl(35 16% 46%)" stroke-opacity="0.35" stroke-width="1.1" transform="translate(-1.3 -0.6)"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 L123.1 150.1" stroke="hsl(30 12% 9%)" stroke-opacity="0.55" stroke-width="1.2" stroke-dasharray="8.9 3.9 5 5.5"/>
+    <path d="M96.6 262 Q95.8 248.9 96.6 242.4 Q97.3 235.8 99.3 229.6 Q101.3 223.3 104.6 217.6 Q107.9 212 111.5 206.5 Q115.1 201 117.9 195 Q120.6 189.1 122.2 182.7 Q123.7 176.3 124 169.7 Q124.4 163.2 123.8 156.6 L123.1 150.1" stroke="hsl(36 14% 38%)" stroke-opacity="0.35" stroke-width="0.7" stroke-dasharray="3.5 6.3" transform="translate(-0.7 0)"/>
+  </g>
+  <!-- Fine hairy rootlets -->
+  <path fill="none" stroke="hsl(30 18% 20%)" stroke-opacity="0.6" stroke-width="0.5" stroke-linecap="round" d="M96.1 252.6 l-6 -0.2 M96.2 250.5 l-4.3 1.7 M96.5 261 l5.8 0.8 M96.3 260.4 l-2 -0.6 M97.2 239.9 l2 0.9 M96 247.4 l2.3 -0.1 M96.1 245.7 l5.4 1.2 M96.2 248.7 l-5.3 -1.8 M97.9 232.6 l3.1 0.8 M97.5 232.8 l2.1 1 M98.3 230.8 l-1.8 -0.9 M98.7 230.9 l-3.8 -1.5 M102.5 215.8 l-2.1 -1.8 M104.4 221.3 l4.4 2.8 M104.6 212.5 l-3.6 -1.5 M106.5 216.6 l-2.9 -2.5 M110.3 201.8 l1.7 2.1 M114.2 209 l-3 -1.9 M109.4 204 l-2.7 -2.1 M113.7 205.6 l2.2 1.3 M119.1 191.2 l-3.4 -3.1 M116.1 195.9 l2.1 1.9 M115.4 190.8 l-2.9 -0.8 M115.7 190.2 l2.6 0.7 M121.6 180.5 l-3.1 -1.7 M121.9 183.9 l3.6 0 M123.1 187.7 l2.8 1 M122.3 188.7 l4.3 0.3 M124.2 172.2 l2.5 0.4 M124 173.3 l-3.9 0.9 M124.1 166.4 l-3.5 -1.4 M123.7 164.7 l-4 -1.2 M124.2 160.2 l1.8 0.2 M123.8 162.6 l3.3 -0.9 M123.4 150.3 l3.6 -1 M123.4 161.9 l-3.5 -0.3 M122.7 144.8 l2.6 0.5 M122.9 140.8 l-3 1 M122.9 145.5 l2 0.1 M123.1 150 l-3.1 0.1 M122.6 128.7 l-3.1 -0.6 M122.4 133.7 l-3 0.6 M122.6 129.3 l1.2 -0.3 M122.6 131.8 l-1.3 -0.3 M123.3 121.4 l-2.2 -0.3 M124.7 113.5 l1.7 0.8 M124.2 112.5 l-1.9 -1.1 M123.5 115.3 l-1.2 -0.3 M128.8 110.9 l2.1 1.9 M131.9 105 l-1.3 -0.2 M128.7 109.5 l2.8 0.7 M131.9 99.6 l1.4 0.9"/>
+  <!-- Tendrils -->
+  <g fill="none" stroke="hsl(68 22% 24%)" stroke-width="0.75" stroke-linecap="round">
+    <path d="M10.2 103.2 Q7.7 103.5 6.5 103.9 Q5.4 104.3 4.5 105.1 Q3.6 105.8 3 106.7 Q2.4 107.6 2.3 108.6 Q2.1 109.6 2.4 110.5 Q2.6 111.4 3.3 112 Q3.9 112.6 4.7 112.8 Q5.4 113 6.1 112.7 Q6.8 112.4 7.1 111.9 Q7.5 111.3 7.4 110.8 Q7.3 110.2 6.9 109.9 Q6.5 109.6 6.1 109.6 Q5.6 109.7 5.4 110 L5.2 110.3"/>
+    <path d="M39.5 110.4 Q38.9 107.9 38.9 106.7 Q38.9 105.5 39.3 104.4 Q39.6 103.3 40.3 102.4 Q41 101.5 41.8 101.1 Q42.7 100.6 43.7 100.5 Q44.6 100.5 45.4 100.8 Q46.2 101.2 46.6 101.9 Q47 102.5 47 103.3 Q47 104 46.6 104.5 Q46.2 105 45.6 105.1 Q45.1 105.2 44.6 105 Q44.2 104.7 44.1 104.3 Q44 103.8 44.2 103.6 L44.4 103.3"/>
+    <path d="M174.9 177.9 Q177.3 177 178.5 176.8 Q179.8 176.7 180.9 176.9 Q182 177.1 183 177.7 Q183.9 178.3 184.5 179.1 Q185.1 179.9 185.2 180.8 Q185.4 181.8 185.1 182.6 Q184.8 183.4 184.2 183.9 Q183.6 184.4 182.9 184.5 Q182.2 184.6 181.6 184.2 Q181.1 183.9 180.9 183.3 Q180.7 182.8 180.9 182.3 Q181.1 181.9 181.6 181.7 Q182 181.6 182.3 181.7 L182.6 181.9"/>
+    <path d="M110.4 80.8 Q109.9 78.2 109.5 77.1 Q109 76 108.2 75.1 Q107.5 74.2 106.5 73.7 Q105.6 73.1 104.6 73 Q103.6 72.9 102.7 73.2 Q101.8 73.5 101.2 74.2 Q100.6 74.8 100.5 75.6 Q100.3 76.4 100.6 77.1 Q100.9 77.7 101.5 78 Q102.1 78.3 102.6 78.2 Q103.2 78.1 103.5 77.7 Q103.8 77.3 103.7 76.9 Q103.6 76.4 103.3 76.3 L103 76.1"/>
+    <path d="M94.2 90.3 Q92.8 88.2 91.9 87.4 Q91 86.5 89.9 86.1 Q88.9 85.6 87.8 85.5 Q86.7 85.4 85.7 85.7 Q84.8 86 84.1 86.7 Q83.4 87.3 83.2 88.2 Q82.9 89 83.1 89.8 Q83.3 90.5 83.8 91 Q84.4 91.5 85 91.5 Q85.7 91.6 86.2 91.3 Q86.6 90.9 86.7 90.4 Q86.8 89.9 86.6 89.6 Q86.3 89.2 86 89.2 L85.6 89.1"/>
+    <path d="M51.1 122.1 Q48.5 121.9 47.3 122.1 Q46 122.3 45 122.8 Q44 123.3 43.2 124.1 Q42.5 124.9 42.1 125.8 Q41.8 126.8 41.9 127.7 Q41.9 128.7 42.4 129.4 Q42.9 130.1 43.6 130.4 Q44.3 130.8 45.1 130.6 Q45.8 130.5 46.2 130 Q46.7 129.6 46.7 129 Q46.7 128.4 46.4 128 Q46.1 127.6 45.6 127.6 Q45.2 127.6 44.9 127.8 L44.7 128.1"/>
+    <path d="M166.9 107.2 Q168.4 105.1 168.9 104 Q169.4 102.8 169.5 101.7 Q169.6 100.5 169.3 99.5 Q169 98.4 168.4 97.6 Q167.8 96.9 166.9 96.4 Q166.1 96 165.2 96.1 Q164.3 96.1 163.7 96.5 Q163 97 162.8 97.7 Q162.5 98.3 162.7 99 Q162.8 99.6 163.3 99.9 Q163.8 100.2 164.3 100.2 Q164.8 100.1 165 99.7 Q165.3 99.4 165.2 99 L165.1 98.7"/>
+    <path d="M63.8 41.2 Q62.7 38.8 62.4 37.6 Q62.2 36.4 62.3 35.3 Q62.5 34.1 63 33.1 Q63.4 32.2 64.2 31.5 Q65 30.9 65.9 30.6 Q66.8 30.4 67.6 30.6 Q68.5 30.8 69 31.4 Q69.6 31.9 69.7 32.6 Q69.8 33.4 69.6 33.9 Q69.3 34.5 68.7 34.7 Q68.2 35 67.7 34.8 Q67.2 34.6 67.1 34.2 Q66.9 33.8 67 33.5 L67.2 33.2"/>
+    <path d="M69.5 61.2 Q67.5 59.6 66.7 58.6 Q66 57.6 65.6 56.5 Q65.2 55.5 65.2 54.4 Q65.2 53.3 65.6 52.4 Q66 51.4 66.7 50.8 Q67.4 50.2 68.3 50 Q69.1 49.8 69.9 50.1 Q70.6 50.3 71 50.9 Q71.5 51.5 71.5 52.1 Q71.5 52.8 71.1 53.2 Q70.7 53.7 70.2 53.7 Q69.7 53.8 69.4 53.5 Q69 53.2 69 52.9 L69 52.5"/>
+    <path d="M126.5 9.3 Q125.1 7 124.8 5.8 Q124.5 4.7 124.5 3.5 Q124.5 2.3 124.9 1.3 Q125.3 0.3 126 -0.4 Q126.7 -1.1 127.6 -1.4 Q128.5 -1.8 129.3 -1.6 Q130.2 -1.5 130.8 -1 Q131.4 -0.5 131.6 0.2 Q131.8 0.9 131.5 1.5 Q131.3 2.1 130.8 2.4 Q130.3 2.7 129.8 2.5 Q129.3 2.4 129.1 2 Q128.9 1.6 129 1.3 L129.1 1"/>
+    <path d="M172.4 32.1 Q174.3 30.3 174.9 29.3 Q175.6 28.2 175.9 27.1 Q176.2 26 176.1 24.9 Q176 23.8 175.5 22.9 Q175 22.1 174.3 21.5 Q173.5 20.9 172.7 20.8 Q171.8 20.7 171.1 21 Q170.4 21.4 170 22 Q169.6 22.6 169.7 23.2 Q169.7 23.9 170.1 24.3 Q170.6 24.7 171.1 24.7 Q171.6 24.7 171.9 24.4 Q172.2 24.1 172.2 23.7 L172.1 23.4"/>
+    <path d="M144.3 44.2 Q144.7 41.6 144.5 40.4 Q144.4 39.1 143.9 38.1 Q143.5 37 142.7 36.2 Q142 35.5 141.1 35.1 Q140.1 34.7 139.2 34.7 Q138.3 34.7 137.5 35.2 Q136.8 35.6 136.4 36.3 Q136 37 136.1 37.8 Q136.2 38.5 136.7 38.9 Q137.1 39.4 137.7 39.5 Q138.3 39.5 138.7 39.2 Q139.1 38.9 139.1 38.5 Q139.2 38 138.9 37.8 L138.7 37.5"/>
+  </g>
+  <!-- Ivy leaves: soft shadow, own colour, shading, sheen, faint veins, decay spots -->
+  <g transform="translate(92.4 195.7) rotate(-70.2)">
+    <path d="M0 0 L4.3 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.3 0) scale(20)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(94 37.9% 23.2%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.027000000000000003" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(86.6 186.1) rotate(-164.5)">
+    <path d="M0 0 L5.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.9 0) scale(22)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(106.8 45.4% 24.7%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.025" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(81.9 175.9) rotate(-62.9)">
+    <path d="M0 0 L5.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.9 0) scale(13.2)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(102.7 29.2% 23.4%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.042" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(71.3 156.1) rotate(-77.6)">
+    <path d="M0 0 L3.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.9 0) scale(20.1)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(94.1 31.4% 17.3%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.027000000000000003" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(65.4 146.5) rotate(-170.4)">
+    <path d="M0 0 L4.7 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.7 0) scale(12.8)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(94.7 43.8% 22.6%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.043" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(57.4 138.6) rotate(-62.6)">
+    <path d="M0 0 L4.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.9 0) scale(13.9)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(109.9 32.3% 25.5%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.04" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(49.7 130.4) rotate(-189.7)">
+    <path d="M0 0 L4.3 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.3 0) scale(13.4)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(88 40.7% 20.4%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.040999999999999995" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(44.2 120.6) rotate(-75.8)">
+    <path d="M0 0 L4.5 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.5 0) scale(14.3)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(88.2 26.1% 26.6%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.039" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(39.5 110.4) rotate(-185)">
+    <path d="M0 0 L3.5 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.5 0) scale(11.2)">
+      <use href="#v8-leaf-4" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-4" fill="hsl(89.1 40.3% 27.8%)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-4" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.049" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(20.3 104) rotate(-125.5)">
+    <path d="M0 0 L3.1 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.1 0) scale(14.4)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(104.4 38.4% 19%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.038" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(10.2 103.2) rotate(-223)">
+    <path d="M0 0 L5.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.8 0) scale(12)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(53.7 36.5% 32.7%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.046" stroke-linecap="round"/>
+      <circle cx="0.534" cy="0.156" r="0.085" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.24" cy="-0.154" r="0.084" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(136.4 197.4) rotate(24.8)">
+    <path d="M0 0 L4.6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.6 0) scale(15.7)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(107.1 27.1% 20.1%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.035" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(146.7 193.9) rotate(-56)">
+    <path d="M0 0 L4.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.8 0) scale(14.2)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(111.7 28.8% 15.2%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.039" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(156.3 188.9) rotate(22.6)">
+    <path d="M0 0 L3.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.8 0) scale(18.3)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(88 32.2% 25.5%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.03" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(165.7 183.6) rotate(-89.2)">
+    <path d="M0 0 L3.7 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.7 0) scale(11.3)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(57.4 48.1% 28.5%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.049" stroke-linecap="round"/>
+      <circle cx="0.574" cy="0.18100000000000002" r="0.051" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.313" cy="0.11900000000000001" r="0.068" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(174.9 177.9) rotate(23.8)">
+    <path d="M0 0 L3.4 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.4 0) scale(14.1)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(37.1 36.2% 25.7%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.039" stroke-linecap="round"/>
+      <circle cx="0.5920000000000001" cy="-0.078" r="0.057" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.275" cy="-0.133" r="0.086" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.441" cy="0.09300000000000001" r="0.07" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.597" cy="0.028999999999999998" r="0.078" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(114.4 166.9) rotate(-27.5)">
+    <path d="M0 0 L5.4 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.4 0) scale(19.6)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(90.5 32.7% 19.3%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.027999999999999997" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(115.1 155.3) rotate(-152.3)">
+    <path d="M0 0 L3.6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.6 0) scale(12.7)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(26.9 32.7% 19.3%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.043" stroke-linecap="round"/>
+      <circle cx="0.631" cy="0.036000000000000004" r="0.076" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.531" cy="-0.061" r="0.079" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.17600000000000002" cy="-0.17" r="0.07400000000000001" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.522" cy="0.16" r="0.047" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(115.3 143.8) rotate(-53.8)">
+    <path d="M0 0 L3.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.8 0) scale(19.9)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(28.3 29.2% 20.5%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.027999999999999997" stroke-linecap="round"/>
+      <circle cx="0.381" cy="0.107" r="0.069" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.574" cy="-0.048" r="0.048" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.45299999999999996" cy="0.162" r="0.078" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.653" cy="0.045" r="0.065" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(113.2 132.4) rotate(-149.5)">
+    <path d="M0 0 L5.3 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.3 0) scale(18.5)">
+      <use href="#v8-leaf-1" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-1" fill="hsl(37.4 41% 28.8%)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-1" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.03" stroke-linecap="round"/>
+      <circle cx="0.44" cy="0.133" r="0.042" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.493" cy="-0.18899999999999997" r="0.057" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.25" cy="0.10800000000000001" r="0.055999999999999994" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.504" cy="-0.158" r="0.081" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(109.8 121.3) rotate(-40.3)">
+    <path d="M0 0 L4.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.8 0) scale(17.5)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(99.7 45.7% 27.1%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.031" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(104.3 111.1) rotate(-159.4)">
+    <path d="M0 0 L4.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.8 0) scale(11.7)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(84.7 41.7% 15.3%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.047" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(109.9 91.2) rotate(-36.5)">
+    <path d="M0 0 L3.2 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.2 0) scale(16)">
+      <use href="#v8-leaf-1" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-1" fill="hsl(91.8 28% 17.2%)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-1" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.034" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(110.4 80.8) rotate(-148.2)">
+    <path d="M0 0 L5.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.9 0) scale(11)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(67 45% 34.8%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.05" stroke-linecap="round"/>
+      <circle cx="0.532" cy="-0.034" r="0.068" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.33799999999999997" cy="-0.235" r="0.083" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(98.6 101) rotate(-76.2)">
+    <path d="M0 0 L4.2 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.2 0) scale(16.3)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(91.1 39.4% 24.6%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.034" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(98.6 152.4) rotate(-187.8)">
+    <path d="M0 0 L5.1 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.1 0) scale(21.7)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(67.5 43.6% 27.1%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.025" stroke-linecap="round"/>
+      <circle cx="0.48" cy="-0.08199999999999999" r="0.09" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.28800000000000003" cy="0.1" r="0.071" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(91.2 143.5) rotate(-64)">
+    <path d="M0 0 L3.6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.6 0) scale(12.8)">
+      <use href="#v8-leaf-4" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-4" fill="hsl(109.9 31.2% 16.3%)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-4" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.043" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(82.6 135.9) rotate(-180.1)">
+    <path d="M0 0 L4.3 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.3 0) scale(16.7)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(87.7 31% 19.9%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.033" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(72.8 129.7) rotate(-89.9)">
+    <path d="M0 0 L5.7 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.7 0) scale(16.7)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(30.6 29% 19.1%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.033" stroke-linecap="round"/>
+      <circle cx="0.59" cy="-0.017" r="0.055999999999999994" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.512" cy="-0.098" r="0.053" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.573" cy="-0.01" r="0.055" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.486" cy="-0.073" r="0.042" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(62.1 125.4) rotate(-204.8)">
+    <path d="M0 0 L3.1 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.1 0) scale(12.9)">
+      <use href="#v8-leaf-1" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-1" fill="hsl(103.9 43.5% 19.8%)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-1" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.043" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(158.1 115.2) rotate(-104.1)">
+    <path d="M0 0 L6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(6 0) scale(13.1)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(109.8 40% 15.3%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.042" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(124.4 163.2) rotate(-32.4)">
+    <path d="M0 0 L4.6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.6 0) scale(19.3)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(110.4 41.6% 18.4%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.028999999999999998" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(123.1 150.1) rotate(-159)">
+    <path d="M0 0 L5.7 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.7 0) scale(21.1)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(100.7 29.3% 21.2%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.026000000000000002" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(112.4 94.4) rotate(-77.3)">
+    <path d="M0 0 L4 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4 0) scale(12.4)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(88.3 35% 28.5%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.044000000000000004" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(105.6 85.7) rotate(-202)">
+    <path d="M0 0 L5 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5 0) scale(19.5)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(24.2 39.3% 29%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.027999999999999997" stroke-linecap="round"/>
+      <circle cx="0.43799999999999994" cy="0.22399999999999998" r="0.048" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.201" cy="-0.14" r="0.042" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.574" cy="-0.013000000000000001" r="0.075" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.503" cy="0.14800000000000002" r="0.076" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(97.2 78.7) rotate(-87.8)">
+    <path d="M0 0 L4.2 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.2 0) scale(11.7)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(90.4 42% 27.5%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.047" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(79.3 66.2) rotate(-91.5)">
+    <path d="M0 0 L5.3 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.3 0) scale(12.9)">
+      <use href="#v8-leaf-1" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-1" fill="hsl(93.2 42.2% 21.7%)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-1" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.043" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(63.8 41.2) rotate(-164.7)">
+    <path d="M0 0 L4.4 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.4 0) scale(13.2)">
+      <use href="#v8-leaf-4" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-4" fill="hsl(91.3 43% 20.6%)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-4" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.042" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(69.5 61.2) rotate(-198.2)">
+    <path d="M0 0 L4.6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.6 0) scale(15.3)">
+      <use href="#v8-leaf-1" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-1" fill="hsl(29.6 40.1% 20.9%)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-1" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.036000000000000004" stroke-linecap="round"/>
+      <circle cx="0.245" cy="-0.113" r="0.068" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.253" cy="-0.19399999999999998" r="0.084" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.47" cy="0.07" r="0.081" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.373" cy="-0.09699999999999999" r="0.08199999999999999" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(126.3 111.2) rotate(-33.1)">
+    <path d="M0 0 L4.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.9 0) scale(16.4)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(103.5 34.1% 18%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.034" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(131.9 80.8) rotate(-16.3)">
+    <path d="M0 0 L6 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(6 0) scale(16.9)">
+      <use href="#v8-leaf-0" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-0" fill="hsl(109.5 46% 27.5%)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-0" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-0" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.032" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(131.8 71.6) rotate(-143.3)">
+    <path d="M0 0 L3.5 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.5 0) scale(12.2)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(85.9 42.9% 16.1%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.045" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(131.7 62.3) rotate(-40.1)">
+    <path d="M0 0 L4.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.9 0) scale(11.6)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(94.5 38.7% 18.2%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.047" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(131.3 53.1) rotate(-160.6)">
+    <path d="M0 0 L3.5 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.5 0) scale(14.4)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(91.5 45.9% 24.9%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.038" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(130.7 43.8) rotate(-31.8)">
+    <path d="M0 0 L3.7 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.7 0) scale(11.9)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(103.8 38.2% 16.9%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.046" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(131.1 34.6) rotate(-136.3)">
+    <path d="M0 0 L3.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.8 0) scale(17.4)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(32.5 28.5% 27%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.032" stroke-linecap="round"/>
+      <circle cx="0.40299999999999997" cy="0.1" r="0.087" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.322" cy="0.16" r="0.048" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.537" cy="-0.102" r="0.055999999999999994" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.40700000000000003" cy="0.10300000000000001" r="0.049" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(131.4 25.3) rotate(-39.6)">
+    <path d="M0 0 L3 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3 0) scale(17.1)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(65.8 46.7% 31.1%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.032" stroke-linecap="round"/>
+      <circle cx="0.31" cy="0.205" r="0.084" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.344" cy="-0.19899999999999998" r="0.057" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(126.5 9.3) rotate(-78.8)">
+    <path d="M0 0 L4.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.9 0) scale(15)">
+      <use href="#v8-leaf-3" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-3" fill="hsl(28.7 28.6% 27.1%)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-3" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-3" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.037000000000000005" stroke-linecap="round"/>
+      <circle cx="0.499" cy="0.096" r="0.085" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.547" cy="-0.138" r="0.042" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.248" cy="0.14300000000000002" r="0.063" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.273" cy="-0.131" r="0.051" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(131.9 99.3) rotate(-118.2)">
+    <path d="M0 0 L4.2 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.2 0) scale(18.2)">
+      <use href="#v8-leaf-1" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-1" fill="hsl(66.2 40% 31.1%)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-1" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-1" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.03" stroke-linecap="round"/>
+      <circle cx="0.257" cy="-0.09699999999999999" r="0.061" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.27699999999999997" cy="-0.12300000000000001" r="0.053" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(137.6 77.4) rotate(-37.7)">
+    <path d="M0 0 L3.8 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.8 0) scale(19.6)">
+      <use href="#v8-leaf-5" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-5" fill="hsl(92.6 44.8% 19.5%)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-5" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-5" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.027999999999999997" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(139.1 66.2) rotate(-118.9)">
+    <path d="M0 0 L4.9 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(4.9 0) scale(17.2)">
+      <use href="#v8-leaf-2" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-2" fill="hsl(52.7 49.8% 33.9%)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-2" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-2" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.032" stroke-linecap="round"/>
+      <circle cx="0.287" cy="0.1" r="0.057" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.336" cy="0.212" r="0.057999999999999996" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(140.6 54.9) rotate(-16.8)">
+    <path d="M0 0 L5.1 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.1 0) scale(11.1)">
+      <use href="#v8-leaf-4" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-4" fill="hsl(66.9 42.8% 32.9%)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-4" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.049" stroke-linecap="round"/>
+      <circle cx="0.611" cy="0.015" r="0.084" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+      <circle cx="0.371" cy="-0.23399999999999999" r="0.08" fill="hsl(28 40% 14%)" fill-opacity="0.38"/>
+    </g>
+  </g>
+  <g transform="translate(163.7 37.5) rotate(33.5)">
+    <path d="M0 0 L5.2 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(5.2 0) scale(15.5)">
+      <use href="#v8-leaf-4" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-4" fill="hsl(89 35.8% 28.2%)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-4" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.035" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(172.4 32.1) rotate(-82.8)">
+    <path d="M0 0 L3.5 0" stroke="hsl(65 20% 26%)" stroke-width="0.7" stroke-linecap="round"/>
+    <g transform="translate(3.5 0) scale(15.6)">
+      <use href="#v8-leaf-4" fill="#000" fill-opacity="0.26" transform="translate(0.05 0.08)"/>
+      <use href="#v8-leaf-4" fill="hsl(90.3 29.4% 18%)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-shade)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-under)"/>
+      <use href="#v8-leaf-4" fill="url(#v8-sheen)"/>
+      <use href="#v8-veins-4" fill="none" stroke="#e8edc8" stroke-opacity="0.2" stroke-width="0.035" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
